@@ -7,6 +7,7 @@ h1, h2 {
 }
 #id2,#id3,#id4{
   background-color:#555559;
+  align-content: center;
 }
 
 #id5{
@@ -44,3 +45,7 @@ h1, h2 {
 #skills{
   background-color: #0DC4ED;
 }
+#img2{
+  align-content: center;
+}
+
