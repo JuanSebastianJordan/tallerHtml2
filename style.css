@@ -31,7 +31,7 @@ h1, h2 {
 #id10{
   background-color: #F90905;
 }
-
+ 
 #img{
   max-width: 100%;
 }
@@ -47,5 +47,11 @@ h1, h2 {
 }
 #img2{
   align-content: center;
+}
+#h2{
+  font-weight: bold;
+}
+#alm,#inf,#los,#kam,#info,#ciu,#fech,#hij,#naci,#con,#pre,#sk{
+  font-weight: bold;
 }
 
