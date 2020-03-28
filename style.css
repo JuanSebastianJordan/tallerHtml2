@@ -1,3 +1,46 @@
 h1, h2 {
   font-family: Lato;
 }
+
+#id1{
+  background-color: #63636C;
+}
+#id2,#id3,#id4{
+  background-color:#555559;
+}
+
+#id5{
+  background-color: #DC1AB8;
+}
+
+#id6{
+  background-color: #2432E3;
+}
+
+#id7{
+  background-color: #249EE3;
+}
+
+#id8{
+  background-color: #7AE25F;
+}
+#id9{
+  background-color: #FE0AC0;
+}
+#id10{
+  background-color: #F90905;
+}
+
+#img{
+  max-width: 100%;
+}
+
+#infoP{
+  background-color: #D6CCCC;
+}
+#premios{
+  background-color: #C40DED;
+}
+#skills{
+  background-color: #0DC4ED;
+}
