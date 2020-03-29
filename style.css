@@ -4,6 +4,7 @@ h1, h2 {
 
 #id1{
   background-color: #63636C;
+  
 }
 #id2,#id3,#id4{
   background-color:#555559;
@@ -12,6 +13,7 @@ h1, h2 {
 
 #id5{
   background-color: #DC1AB8;
+  
 }
 
 #id6{
@@ -38,20 +40,46 @@ h1, h2 {
 
 #infoP{
   background-color: #D6CCCC;
+  padding: 5%;
 }
 #premios{
   background-color: #C40DED;
+  padding: 3%;
 }
 #skills{
-  background-color: #0DC4ED;
+  background-color: rgb(21, 115, 223);
+  padding: 3%;
 }
 #img2{
   align-content: center;
+  padding: 2%;
 }
 #h2{
   font-weight: bold;
+  padding: 3%;
+}
+#h3{
+  padding: 2%;
 }
 #alm,#inf,#los,#kam,#info,#ciu,#fech,#hij,#naci,#con,#pre,#sk{
   font-weight: bold;
 }
-
+#disc{
+  padding: 5%;
+  
+}
+#p1,#p2,#p3{
+  padding: 5%;
+}
+#row3{
+  padding: 5%;
+}
+#roww{
+  padding: 3%;
+}
+#row2{
+  padding: 5%;
+}
+#colm,#colm2{
+  padding: 7%;
+}
